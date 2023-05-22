@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started honours project under Dr. Avinash Sharma at CVIT, IIIT-Hyderabad
+Started honours project under Dr. Avinash Sharma at CVIT, IIIT-Hyderabad.
